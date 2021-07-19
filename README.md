@@ -1,4 +1,5 @@
-## Hi there, I am ℰ𝓂𝓂𝒶𝓃𝓊ℯ𝓁 ☀️🏖️✈️
+### Hi there, I am ℰ𝓂𝓂𝒶𝓃𝓊ℯ𝓁 ☀️🏖️✈️ ![hehim](https://user-images.githubusercontent.com/86100227/126238266-2e3ecd39-f5d3-4bc5-8d42-8f9436b5a846.png)
+
 https://user-images.githubusercontent.com/86100227/126218216-251fed09-5bb8-46c0-968d-b45b432469d9.mp4
 
 ---
@@ -6,6 +7,7 @@ I'm an aspiring full-stack developer eager to create useful technology to make p
 
 ---
 ### Techs known so far
+![java](https://user-images.githubusercontent.com/86100227/126238141-6d8c3f63-7a3c-4c5b-9995-dd84b9831b46.png)
 
 <!--
 **manu1907/manu1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

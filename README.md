@@ -1,6 +1,7 @@
 ## Hi there, I am ℰ𝓂𝓂𝒶𝓃𝓊ℯ𝓁 ☀️🏖️✈️
-
 https://user-images.githubusercontent.com/86100227/126218216-251fed09-5bb8-46c0-968d-b45b432469d9.mp4
+
+I'm an aspiring full-stack developer eager to create useful technology to make people's lives easier. I started with Java and JavaFX and look forward to gain experience in many more technologies very soon.
 
 <!--
 **manu1907/manu1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
